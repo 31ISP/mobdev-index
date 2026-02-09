@@ -18,6 +18,8 @@
 
 [Интерактивный тренажер по Git](https://ohmygit.org/)
 
+[Лабораторная работа](https://github.com/31ISP/mobdev-lab-git)
+
 ### 1. Введение в верстку
 
 #### 1. HTML
@@ -30,7 +32,7 @@
 
 [HTML Academy #2](https://htmlacademy.ru/courses/299)
 
-[Лабораторная работа](https://github.com/31ISP/mobdev-lab1)
+[Лабораторная работа](https://github.com/31ISP/mobdev-lab-html)
 
 #### 2. CSS
 
