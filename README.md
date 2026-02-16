@@ -2,7 +2,7 @@
 
 ## Содержание
 
-1. [Лидерборд](https://docs.google.com/spreadsheets/d/12JIfriB0FJvXmA1DgSoB2L9AfjjwFlfL/edit?gid=1477412952#gid=1477412952)
+1. [Лидерборд](https://docs.google.com/spreadsheets/d/1Dnll6qAerhpAkDqgpXH0BbgAOyp0m6Mg/edit?usp=sharing&ouid=114980174016056670914&rtpof=true&sd=true)
 1. [Roadmap](#roadmap)
 1. [Как выполнять задания](#как-выполнять-задания)
 1. [Документация](#документация)
