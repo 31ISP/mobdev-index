@@ -34,37 +34,20 @@
 
 [Лабораторная работа](https://github.com/31ISP/mobdev-lab-html)
 
-#### 2. CSS
-
-[Презентация по CSS](https://ktkv-presentations.github.io/uidev-5)
-
-- [Flexbox Froggy](https://flexboxfroggy.com)
-
-- [Grid Garden](https://cssgridgarden.com/#ru)
-
-...лабы
-
-#### 3. JS
+#### 2. JS
 
 - [Лекция](https://ktkv-presentations.github.io/uidev-11/#/1/1)
 
-- [Лекция](https://ktkv-presentations.github.io/uidev-12/#/1/1)
+- [Лабораторная работа #1](https://github.com/31ISP/mobdev-js-lab)
 
-...лабы
+- [Лабораторная работа (Listeners) #2](#)
 
-### 3. Терминал
+- [Лабораторная работа (Fetch) #3](#)
 
-[Интерактивный тренажер по Unix терминалу](https://www.terminaltutor.com/) [en]
 
-или
+### 3. Основы React
 
-[Бесплатный курс по терминалу](https://ru.hexlet.io/courses/cli-basics) [ru]
-
-...лабы
-
-### 4. Основы React
-
-- [Памятка React](https://github.com/41ISP/mobdev3-react)
+- [Памятка React](https://github.com/31ISP/mobdev3-react)
 
 ...лабы
 
