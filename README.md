@@ -40,9 +40,7 @@
 
 - [Лабораторная работа #1](https://github.com/31ISP/mobdev-js-lab)
 
-- [Лабораторная работа (Listeners) #2](#)
-
-- [Лабораторная работа (Fetch) #3](#)
+- [Лабораторная работа (Fetch) #3](https://github.com/31ISP/mobdev-render-lab)
 
 
 ### 3. Основы React
